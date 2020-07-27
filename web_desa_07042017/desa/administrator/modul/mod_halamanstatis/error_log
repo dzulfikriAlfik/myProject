@@ -1,0 +1,6 @@
+[16-May-2014 16:31:01] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 14
+[16-May-2014 16:31:01] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 15
+[16-May-2014 16:31:01] PHP Notice:  Use of undefined constant gambar - assumed 'gambar' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 20
+[16-May-2014 16:32:51] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 14
+[16-May-2014 16:32:51] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 15
+[16-May-2014 16:32:51] PHP Notice:  Use of undefined constant gambar - assumed 'gambar' in /home/shofwank/public_html/administrator/modul/mod_halamanstatis/aksi_halamanstatis.php on line 20

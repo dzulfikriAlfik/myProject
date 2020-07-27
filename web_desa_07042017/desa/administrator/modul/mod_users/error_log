@@ -1,0 +1,9 @@
+[06-May-2014 14:24:29] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 12
+[06-May-2014 14:24:29] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 13
+[06-May-2014 14:24:29] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 80
+[06-May-2014 14:24:29] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 81
+[06-May-2014 14:24:29] PHP Notice:  Undefined index:  modul in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 89
+[06-May-2014 14:24:29] PHP Notice:  Undefined index:  modul in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 90
+[16-May-2014 14:11:21] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 12
+[16-May-2014 14:11:21] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 13
+[16-May-2014 14:11:21] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/modul/mod_users/aksi_users.php on line 80

@@ -1,0 +1,22 @@
+@import "ui.base.css";
+@import "ui.theme.css";
+#tabelinput {
+	border: thin solid #00C;
+	background-color: #CCC;
+}
+#jalan {
+	background-image: url(../../../images/footer.jpg);
+	border: thin solid #00F;
+	color: #0F0;
+}
+#body #body2 tr #isi #form1 div #tampiltabel {
+	text-align: center;
+}
+#pgw {
+	border: thin solid #F0F;
+	background-color: #99F;
+	color: #000;
+}
+#body #body tr #isi #form1 div #pgw tr td div strong {
+	color: #FFF;
+}

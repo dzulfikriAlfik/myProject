@@ -1,0 +1,51 @@
+[16-May-2014 13:27:38] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 13:27:38] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 13:27:38] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 13:50:49] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 13:50:49] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 13:50:49] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 14:43:37] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 14:43:37] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 14:43:37] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:28:46] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:28:46] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:28:46] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:33:53] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:33:53] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:33:53] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:34:42] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:34:42] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:34:42] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:41:32] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:41:32] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:41:32] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:49:07] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:49:07] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:49:07] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 56
+[16-May-2014 15:49:07] PHP Notice:  Undefined index:  dibaca in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 87
+[16-May-2014 15:51:23] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:51:23] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:51:23] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 15:53:10] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 15:53:10] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 15:53:10] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 16:00:53] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 16:00:53] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 16:00:53] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[16-May-2014 16:07:58] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 26
+[16-May-2014 16:07:58] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 27
+[16-May-2014 16:07:58] PHP Notice:  Use of undefined constant judul - assumed 'judul' in /home/shofwank/public_html/administrator/modul/mod_berita/aksi_berita.php on line 149
+[14-May-2015 16:23:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 32
+[14-May-2015 16:23:33 Asia/Jakarta] PHP Warning:  unlink(../../../foto_berita/): Is a directory in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 35
+[14-May-2015 16:23:33 Asia/Jakarta] PHP Warning:  unlink(../../../foto_berita/small_): No such file or directory in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 36
+[14-May-2015 16:23:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php:32) in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 41
+[14-May-2015 17:58:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 32
+[14-May-2015 17:58:17 Asia/Jakarta] PHP Warning:  unlink(../../../foto_berita/): Is a directory in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 35
+[14-May-2015 17:58:17 Asia/Jakarta] PHP Warning:  unlink(../../../foto_berita/small_): No such file or directory in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 36
+[14-May-2015 17:58:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php:32) in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 41
+[15-May-2015 14:08:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 32
+[15-May-2015 14:08:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php:32) in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 39
+[01-Jun-2015 10:16:37 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 32
+[01-Jun-2015 10:16:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php:32) in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 39
+[01-Jun-2015 10:19:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 32
+[01-Jun-2015 10:19:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php:32) in /home/phpmucom/public_html/demo/swarakalibata-v3-final/administrator/modul/mod_berita/aksi_berita.php on line 39

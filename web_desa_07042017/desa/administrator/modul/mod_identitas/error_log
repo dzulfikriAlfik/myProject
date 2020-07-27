@@ -1,0 +1,4 @@
+[06-May-2014 14:22:40] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_identitas/aksi_identitas.php on line 12
+[06-May-2014 14:22:40] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_identitas/aksi_identitas.php on line 13
+[06-May-2014 14:22:41] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/shofwank/public_html/administrator/modul/mod_identitas/aksi_identitas.php on line 12
+[06-May-2014 14:22:41] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/shofwank/public_html/administrator/modul/mod_identitas/aksi_identitas.php on line 13

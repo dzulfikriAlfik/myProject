@@ -1,0 +1,156 @@
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[06-May-2014 14:22:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[06-May-2014 14:22:13] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[07-May-2014 15:02:33] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[07-May-2014 15:02:57] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 09:44:32] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 09:44:47] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 09:45:46] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 09:48:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[15-May-2014 09:48:06] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[15-May-2014 10:41:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[15-May-2014 10:41:34] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:34:44] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:35:20] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:36:40] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:37:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:37:02] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:38:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:38:22] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 12:38:25] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 12:38:25] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 13:44:08] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 13:45:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 13:45:21] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 15:59:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 15:59:32] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 16:11:05] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 16:11:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 16:11:24] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[16-May-2014 16:26:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/shofwank/public_html/administrator/cek_login.php on line 28
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/shofwank/public_html/administrator/cek_login.php on line 30
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant nama_lengkap - assumed 'nama_lengkap' in /home/shofwank/public_html/administrator/cek_login.php on line 31
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/shofwank/public_html/administrator/cek_login.php on line 32
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/shofwank/public_html/administrator/cek_login.php on line 33
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[16-May-2014 16:26:59] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/shofwank/public_html/administrator/cek_login.php on line 34
+[19-May-2014 06:50:38] PHP Notice:  Undefined index:  username in /home/shofwank/public_html/administrator/cek_login.php on line 9
+[19-May-2014 06:50:38] PHP Notice:  Undefined index:  password in /home/shofwank/public_html/administrator/cek_login.php on line 10
+[19-May-2014 06:50:38] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[19-May-2014 06:50:38] PHP Notice:  Undefined index:  kode in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[19-May-2014 06:50:38] PHP Notice:  Undefined index:  captcha_session in /home/shofwank/public_html/administrator/cek_login.php on line 14
+[10-Jun-2014 23:08:42] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:09:27] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:00] PHP Notice:  Undefined index:  username in /home/shofwank/public_html/administrator/cek_login.php on line 9
+[10-Jun-2014 23:17:00] PHP Notice:  Undefined index:  password in /home/shofwank/public_html/administrator/cek_login.php on line 10
+[10-Jun-2014 23:17:00] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:00] PHP Notice:  Undefined index:  kode in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:02] PHP Notice:  Undefined index:  username in /home/shofwank/public_html/administrator/cek_login.php on line 9
+[10-Jun-2014 23:17:02] PHP Notice:  Undefined index:  password in /home/shofwank/public_html/administrator/cek_login.php on line 10
+[10-Jun-2014 23:17:02] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:02] PHP Notice:  Undefined index:  kode in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:12] PHP Notice:  Undefined index:  username in /home/shofwank/public_html/administrator/cek_login.php on line 9
+[10-Jun-2014 23:17:12] PHP Notice:  Undefined index:  password in /home/shofwank/public_html/administrator/cek_login.php on line 10
+[10-Jun-2014 23:17:12] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:12] PHP Notice:  Undefined index:  kode in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:25] PHP Notice:  Undefined index:  username in /home/shofwank/public_html/administrator/cek_login.php on line 9
+[10-Jun-2014 23:17:25] PHP Notice:  Undefined index:  password in /home/shofwank/public_html/administrator/cek_login.php on line 10
+[10-Jun-2014 23:17:25] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:17:25] PHP Notice:  Undefined index:  kode in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:18:22] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:18:49] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
+[10-Jun-2014 23:19:27] PHP Notice:  Use of undefined constant kode - assumed 'kode' in /home/shofwank/public_html/administrator/cek_login.php on line 13
