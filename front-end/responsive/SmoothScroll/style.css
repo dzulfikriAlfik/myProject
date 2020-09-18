@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+}
+
+.box1 {
+   height: 767px;
+   background-color: lightblue;
+   text-align: center;
+}
+
+.box1 a.section1 {
+   text-align: center;
+}

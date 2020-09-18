@@ -1,0 +1,12 @@
+NOTE PART 7
+Langkah untuk menjalankan aplikasi Blog Sekolah Nananina
+1. Pastikan Anda sudah nonton video dari part 1 sampai 6 (https://www.youtube.com/watch?v=jvX7_u-Wq3w&list=PLahKsmzc1wyWNDK5W7uqAQGiqS_UdOmmX)
+2. Silakan donwload sourcecode di video part 6
+3. replacekan file index.php ke views/frontend/index.php
+4. replacekan file galeri_list.php ke views/frontend/galeri/galeri_list.php
+
+Semoga berhasil dan keep ngoding
+
+Jangan lupa subscribe dlu ya
+
+www.youtube.com/c/peternakkode?sub_confirmation=1

@@ -1,0 +1,5 @@
+<div class="feature-block-five col-lg-4 col-md-6 col-sm-12">
+                                        <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                            <div class="mapouter"><div class="gmap_canvas"><iframe width="633" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=rsud%20temanggung&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net"></a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:633px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:633px;}</style></div>
+                                        </div>
+                                    </div>
