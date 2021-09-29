@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
 * {
    padding: 0;
    margin: 0;
@@ -196,7 +197,8 @@ p {
    z-index: -1;
 }
 
-#header .hamburger .bar::after, #header .hamburger .bar::before {
+#header .hamburger .bar::after,
+#header .hamburger .bar::before {
    content: '';
    position: absolute;
    height: 100%;
@@ -228,7 +230,7 @@ p {
 /* Hero Section */
 
 #hero {
-   background-image: url(./img/hero-bg.png);
+   background-image: url(./img/hero-bg.jpg);
    background-size: cover;
    background-position: top center;
    position: relative;
@@ -438,6 +440,11 @@ p {
    color: white;
 }
 
+#projects .project-info p a {
+   color: whitesmoke;
+   font-weight: bold;
+}
+
 #projects .project-img {
    flex-basis: 50%;
    height: 300px;
@@ -453,7 +460,7 @@ p {
    height: 100%;
    width: 100%;
    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-   opacity: .7;
+   opacity: .8;
 }
 
 #projects .project-img img {
@@ -534,6 +541,7 @@ p {
    flex-direction: column;
    max-width: 1200px;
    margin: 0 auto;
+   text-align: center;
 }
 
 #contact .contact-items {
@@ -635,6 +643,7 @@ p {
       opacity: 1;
       transform: scale(1);
    }
+
    100% {
       opacity: 0;
       transform: scale(1.4);
@@ -646,6 +655,7 @@ p {
       width: 100%;
       left: 0;
    }
+
    100% {
       width: 0;
       left: 100%;
@@ -674,19 +684,23 @@ p {
       font-size: 2.5rem;
       padding: 20px 60px;
    }
+
    h1.section-title {
       font-size: 6rem;
    }
+
    /* hero */
    #hero h1 {
       font-size: 7rem;
    }
+
    /* End hero */
    /* services */
    #services .service-bottom .service-item {
       flex-basis: 45%;
       margin: 1.5%;
    }
+
    /* End services */
    /* Projects */
    #projects .project-item {
@@ -696,25 +710,31 @@ p {
       border-radius: 0;
       flex-direction: row;
    }
+
    #projects .project-item:nth-child(even) {
       flex-direction: row-reverse;
    }
+
    #projects .all-projects .project-info {
       height: 100%;
    }
+
    #projects .all-projects .project-img {
       height: 100%;
    }
+
    /* End Projects */
    /* About */
    #about .about {
       flex-direction: row;
    }
+
    #about .col-left {
       width: 600px;
       height: 400px;
       padding-left: 60px;
    }
+
    #about .about .col-left .about-img::after {
       left: -35px;
       top: 20px;
@@ -723,13 +743,16 @@ p {
       border: 10px solid crimson;
       z-index: -1;
    }
+
    #about .col-right {
       text-align: left;
       padding: 30px;
    }
+
    #about .col-right h1 {
       text-align: left;
    }
+
    /* End About */
    /* contact */
    #contact .contact {
@@ -738,7 +761,9 @@ p {
       align-items: center;
       justify-content: center;
       min-width: 20vh;
+      text-align: center;
    }
+
    #contact .contact-items {
       width: 100%;
       display: flex;
@@ -746,23 +771,28 @@ p {
       justify-content: space-evenly;
       margin: 0;
    }
+
    #contact .contact-item {
       width: 30%;
       margin: 0;
       flex-direction: row;
    }
+
    #contact .contact-item .icon {
       height: 100px;
       width: 100px;
    }
+
    #contact .contact-item .icon img {
       object-fit: contain;
    }
+
    #contact .contact-item .contact-info {
       width: 100%;
       text-align: left;
       padding-left: 20px;
    }
+
    /* End contact */
 }
 
@@ -771,10 +801,12 @@ p {
 /* Media for Desktop */
 
 @media only screen and (min-width:1200px) {
+
    /* header */
    #header .hamburger {
       display: none;
    }
+
    #header .nav-list ul {
       position: initial;
       display: block;
@@ -782,21 +814,26 @@ p {
       width: fit-content;
       background-color: transparent;
    }
+
    #header .nav-list ul li {
       display: inline-block;
    }
+
    #header .nav-list ul li a {
       font-size: 1.8rem;
    }
+
    #header .nav-list ul a::after {
       display: none;
    }
+
    /* End header */
    /* Sevices */
    #services .service-bottom .service-item {
       flex-basis: 22%;
       margin: 1.5%;
    }
+
    /* End Sevices */
 }
 
