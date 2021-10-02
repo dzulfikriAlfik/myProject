@@ -1,0 +1,155 @@
+/* Message List */
+.message-search{
+	background:var(--f7-theme-color-white);
+	padding: 0px 30px 10px 30px;
+    height: 60px !important;
+	
+	&:after,
+	&:before{
+		content:none;
+	}
+	.searchbar {
+		border-radius: 12px;
+		overflow: hidden;
+		
+		input{
+			background-color: var(--f7-theme-color-white);
+			height: 60px;
+			font-size: 16px;
+			border-radius: 2px !important;
+			border: 1px solid #eeeeee;
+		}
+	}
+}
+.search-list-bar{
+	margin-top:20px;
+	margin-bottom:0;
+	padding-left: 0;
+	padding-right: 0;
+	
+	ul{
+		background:transparent;
+		
+		&:after,
+		&:before{
+			content:none;
+		}
+		li{
+			padding: 0;
+			border-bottom: 1px solid rgba(0,0,0,0.1);
+		}
+	}
+	.item-content{
+		padding:15px 0 15px 30px;
+		.item-media{
+			width: 45px;
+			height: 45px;
+			border-radius: 12px;
+			overflow: hidden;
+			padding: 0;
+			margin: 0;
+			
+			img{
+				width:100%;
+			}
+		}
+		.item-inner{
+			&:after,
+			&:before{
+				content:none;
+			}
+			padding:0 30px 0 0;
+			.item-text{
+				font-size: 14px;
+				margin-bottom: 5px;
+				margin-top: 0;
+				color: #777777;
+				font-weight: 500;
+			}
+			.item-title-row{
+				padding-right:0;
+				&:after,
+				&:before{
+					content:none;
+				}
+				.item-title{
+					font-size: 16px;
+					margin: 0 0 2px;
+					font-weight: 700;
+					color: $headings-color;
+				}
+				.item-after{
+					font-size:12px;
+					align-items: center;
+					color:#898a8d;
+					font-weight: 500;
+				}
+			}
+		}
+	}
+}
+.panel-open i{
+	margin-left: -2px !important;
+}
+.home-search{
+	padding:0;
+	position: unset;
+	border-radius:12px;
+	overflow: hidden;
+		
+	input[type=search]{
+		padding: 0px 80px 0px 25px;
+		border-radius: inherit;
+		font-size: 14px;
+	}
+	i{
+		font-size: 15px;
+		right: 15px;
+		left: auto !important;
+		color:#b9b9b9;
+		&:after{
+			color:inherit;
+		}
+	}
+	
+	.if-not-aurora{
+		left: auto !important;
+		right: 0;
+		transform: rotate(180deg) scale(1) !important;
+		color: #b9b9b9;
+	}
+	.searchbar{
+		margin: 0 !important;
+		box-shadow: none !important;
+	
+		.input-clear-button:after {
+			line-height: 50px;
+			content: 'delete_md';
+			opacity: 1;
+			margin-left: -40px;
+			font-size: 20px;
+			color: #b9b9b9;
+		}
+	}
+}
+.card-bx{
+	box-shadow:0 8px 12px 0 rgba(0,0,0,0.03);
+	border-radius:$border-radius;
+	
+	&.bg-primary{
+		box-shadow:0 8px 12px 0 rgba($primary,0.1);
+	}
+}
+.tag-swiper.demo-swiper-multiple{ 
+	margin-right: -30px;
+	height: auto;
+	
+	
+	.swiper-slide{
+		width: auto;
+		border: 0;
+		background: transparent;
+		height: auto;
+		display: block;
+	}
+}

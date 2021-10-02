@@ -1,0 +1,78 @@
+// Tabbar Styles
+.tabbar{
+
+	&.tab-style-1{
+		height: 56px;
+		background-color: transparent;
+		z-index: 9;
+			
+		.toolbar-inner{
+			padding: 5px;
+			background-color: #f1f1f1;
+			border-radius: 12px;
+		}
+		
+		&:before,
+		&:after{
+			content:none;
+		}
+		.tab-link-highlight{
+			display: none;
+		}
+		.tab-link{
+			font-size: 16px;
+			text-transform: capitalize;
+			letter-spacing: unset;
+			font-weight: 600;
+			width: auto;
+			padding: 12px 25px;
+			border-radius: 12px;
+			height: 45px;
+			background-color: transparent;
+		
+			&.tab-link-active{
+				color: $headings-color;
+				background-color: var(--f7-theme-color-white);
+			}
+		}
+		@include respond('phone-min'){
+			.tab-link{
+				width: 100%;
+			}
+		}
+	}
+	&.tab-style-2{
+		background-color: transparent;
+		width: 80px;
+		&:before,
+		&:after{
+			content:none;
+		}
+		.tab-link-highlight{
+			display: none;
+		}
+		
+		.tab-link{
+		    max-width: 35px;
+			height: 35px;
+			
+			i{
+				color: #cacaca;
+			}
+			path[fill],
+			path{
+				fill: #cacaca;
+			}
+			&.tab-link-active{
+				i{
+				color: var(--f7-theme-color);
+				}
+				path[fill],
+				path{
+					fill: var(--f7-theme-color);
+				}
+			}
+		}
+	}
+
+}

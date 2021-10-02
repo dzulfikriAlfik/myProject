@@ -1,0 +1,169 @@
+/* Theme Dark */
+.theme-dark{
+	// Heading Color
+	h1, h2, h3, h4, h5, h6,
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+	.navbar .navbar-inner .title{
+		color: #cecece;
+	}
+	body{
+		color: #cecece;
+	}	
+}
+
+/* Border Color */
+.theme-dark{
+	.navbar,
+	.menubar-area,
+	.border-top,
+	.searchbar.search-box .searchbar-input-wrap input,
+	.form-elements ul .item-content .item-inner .item-input-wrap .form-control,
+	.categories-swiper .swiper-slide.swiper-slide-next .categories-bx,
+	.messagebar .toolbar-inner,
+	.categories-bx,
+	.comment-list .comment .children,
+	.page-content .searchbar.search-box .searchbar-input-wrap input,
+	.form-elements ul .item-content .item-inner .item-input-wrap .number-select,
+	.comment-list > ul > li,
+	.search-list-bar ul li,
+	.categories-bx .icon-bx,
+	.reviews-info,
+	.author-bx .phone,
+	.notification-list ul li,
+	.profile-bx{
+		border-color: #333333;		
+	}
+}
+.theme-dark{
+	.profile-bx .author{
+		border-color: #121212;
+	}
+}
+
+/* Background Color */
+.theme-dark{
+	body,
+	.page,
+	.page-content,
+	.tab-style-1,
+	.footer-button{
+		background:#1c1c1d;	
+	}
+}
+
+/* Color Fill */
+.theme-dark{
+	.account-area .logo .logo-icon path[fill].white{
+		fill:#1c1c1d;	
+	}
+}
+
+/* Background Color */
+.theme-dark{
+	.navbar .navbar-bg{
+		background:#1c1c1d!important;	
+	}
+}
+
+/* Background Color Dark 2 */
+.theme-dark{
+	.view-logo .logo-icon,
+	.searchbar.search-box .searchbar-input-wrap input,
+	.messages .message.message-received .message-content .message-bubble,
+	.messages .message.message-received .message-content .message-bubble:before,
+	.tabbar.tab-style-1 .toolbar-inner,
+	.button.button-gray{
+		background-color:#121212;	
+	}
+}
+
+/* Theme Color White */
+.theme-dark{
+	.text-black,
+	.form-elements ul .item-content .item-inner .item-input-wrap .form-control,
+	.categories-bx span,
+	.navbar.navbar-transparent.navbar-transparent-visible .title, 
+	.navbar.navbar-transparent.navbar-transparent-visible a, 
+	.navbar.navbar-transparent.navbar-transparent-visible i,
+	.navbar a.link,
+	.tab-style-1 .tab-link.tab-link-active,
+	.search-list-bar .item-content .item-inner .item-title-row .item-title,
+	.tabbar.tab-style-1 .tab-link.tab-link-active,
+	.sidebar-left .panel-close{
+		color:#cecece;
+	}
+}
+
+/* Theme Dark Color Fill White */
+.theme-dark{
+	.profile-bx .profile-info .icon-bx path[fill], 
+	.profile-bx .profile-info .icon-bx path,
+	.navbar a.link path[fill],
+	.navbar a.link path,
+	.navbar a.link rect,
+	.navbar a.link rect[fill],
+	.navbar a.link [fill]{
+		fill: #fff;
+	}
+}
+
+/* Theme Color Second */
+.theme-dark{
+	.check-list li,
+	.search-list-bar .item-content .item-inner .item-text,
+	.form-elements ul .item-content .item-inner .item-input-wrap .form-control::placeholder,
+	.categories-swiper .swiper-slide.swiper-slide-next .categories-bx span,
+	.messages .message.message-received .message-content .message-bubble,
+	.account-area p,
+	.account-area .form-text,
+	.comment-list .comment .comment-text,
+	.comment-list .comment .comment-meta ul li a{
+		color:#969696;
+	}
+}
+
+/* Heading Color */
+.theme-dark{
+	.card-overlay.style-1 .title a{
+		color: #222;
+	}
+}
+
+/* Background Color White */
+.theme-dark{
+	.swiper-pagination-bullet{
+		background: #fff;
+	}
+}
+
+/* Theme Color Dark Variable */
+.ios .theme-dark,
+.ios.theme-dark {
+	--f7-text-color: #fff;
+	--f7-bars-bg-color: #121212;
+	--f7-bars-bg-color-rgb: 22, 22, 22;
+	--f7-bars-border-color: rgba(255, 255, 255, 0.16);
+    --f7-page-bg-color: #040e01;
+}
+:root .theme-dark,
+:root.theme-dark,
+:root.md.theme-dark{
+	--f7-bars-text-color: #fff;
+	--f7-block-title-text-color: #fff;
+	--f7-block-strong-border-color: rgba(255, 255, 255, 0.15);
+	--f7-block-title-medium-text-color: #fff;
+	--f7-block-title-large-text-color: #fff;
+	--f7-block-strong-bg-color: #030b00;
+	--f7-list-button-border-color: rgba(255, 255, 255, 0.15);
+	--f7-list-bg-color: #030b00;
+	--f7-list-border-color: rgba(255, 255, 255, 0.15);
+	--f7-list-item-border-color: rgba(255, 255, 255, 0.15);
+	--f7-list-item-divider-border-color: rgba(255, 255, 255, 0.15);
+	--f7-list-item-divider-bg-color: #232323;
+	--f7-list-group-title-bg-color: #232323;
+	--f7-list-chevron-icon-color: rgba(255, 255, 255, 0.3);
+	--f7-card-bg-color: #030b00;
+	--f7-bars-bg-color: #030b00;
+	--f7-theme-color-light: #040e01;
+	--f7-theme-color-white: #1c1c1d;
+}

@@ -1,0 +1,65 @@
+$border-radius: 1.5rem;
+// Body
+$body-bg   : #fbf7ff;
+$body-color: #7e7e7e;
+
+:root{	
+  --f7-theme-color: #0936C3;
+  --f7-theme-color-rgb: 146,55,227;
+  --f7-theme-color-shade: #0936C3;
+  --f7-theme-color-tint: #a44ef1;
+  --f7-theme-color-light: #EBF6F0;
+  --f7-theme-color-white: #fff;
+}
+
+// Typography
+$font-family-base: 'Raleway', sans-serif;
+$headings-font-weight   : 600;
+// $headings-font-family:        $fm;
+
+$font-size-base     : 0.875rem !default;
+$font-weight-base   : 400 !default;
+
+// $line-height-base: 1.6;
+$h1-font-size       : 2rem;
+$h2-font-size       : 1.75rem;
+$h3-font-size       : 1.5rem;
+$h4-font-size       : 1.25rem;
+$h5-font-size       : 1.125rem;
+$h6-font-size       : 1rem;
+
+
+$strong:#646c9a;
+$border: #f0f1f5;
+$shadow: 0px 0Epx 40px 0px rgba(82,63,105,0.1);
+
+
+// $headings color
+$headings-color: #222222;
+
+///////////////
+// Solid Color
+///////////////
+$white: #fff;
+$black: #000;
+
+$primary  : #309f5f !default;
+$secondary: #FF7F23 !default;
+$success  : #37b7af !default;
+$info     : #6798ff !default;
+$warning  : #ff9838 !default;
+$danger   : #f65353 !default;
+$light    : #E8E8E8 !default;
+$dark     : #6e6e6e;
+
+
+/////////////////////////
+// Primary Light
+/////////////////////////
+$primary-light: lighten($primary, 43%);
+$secondary-light: lighten($secondary, 40%);
+$success-light: lighten($success, 38%);
+$warning-light: lighten($warning, 38%);
+$danger-light: lighten($danger, 38%);
+$info-light: lighten($info, 47%);
+$dark-light: lighten($dark, 50%);
