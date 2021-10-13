@@ -1,136 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Realtime Chat app</title>
-   <link rel="stylesheet" href="assets/css/style.css">
-   <!-- <link rel="stylesheet" href="assets/css/font-awesome.css"> -->
-   <!-- <link rel="stylesheet" href="assets/css/fontawesome.min.css"> -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
-</head>
+<?php 
+session_start();
+include_once('header.php');
+include_once('action/config.php');
+if(!isset($_SESSION['unique_id'])) {
+   header("Location: login.php");
+}
+?>
 
 <body>
 
    <div class="wrapper">
       <section class="chat-area">
          <header>
-            <a href="#" class="back-icon"><i class="fas fa-arrow-left"></i></a>
-            <img src="assets/img/profile.jpg" alt="">
+            <?php 
+               $user_id = mysqli_real_escape_string($conn, $_GET['user_id']);
+               $query = mysqli_query($conn, "SELECT * FROM users WHERE unique_id = '{$user_id}'");
+               if(mysqli_num_rows($query) > 0) {
+                  $row = mysqli_fetch_assoc($query);
+               }
+            ?>
+            <a href="users.php" class="back-icon"><i class="fas fa-arrow-left"></i></a>
+            <img src="assets/img/users/<?= $row['img']; ?>" alt="">
             <div class="details">
-               <span>Dzulfikri</span>
-               <p>Active now</p>
+               <span><?= $row['first_name'] . " " . $row['last_name']; ?></span>
+               <p><?= $row['status']; ?></p>
             </div>
          </header>
          <div class="chat-box">
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat outgoing">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
-            <div class="chat incoming">
-               <img src="assets/img/profile.jpg" alt="">
-               <div class="details">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-               </div>
-            </div>
+            
          </div>
          <form action="#" class="typing-area">
-            <input type="text" placeholder="Type a message here ...">
+            <input type="text" name="outgoing_id" value="<?= $_SESSION['unique_id']; ?>" hidden>
+            <input type="text" name="incoming_id" value="<?= $user_id; ?>" hidden>
+            <input type="text" name="message" class="input-field" placeholder="Type a message here ...">
             <button><i class="fab fa-telegram-plane"></i></button>
          </form>
       </section>
    </div>
+
+   <!-- script -->
+   <script src="assets/js/chat.js"></script>
 
 </body>
 

@@ -1,45 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+session_start();
+include_once('header.php');
+if(isset($_SESSION['unique_id'])) {
+   header("Location: users.php");
+}
 
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Realtime Chat app</title>
-   <link rel="stylesheet" href="assets/css/style.css">
-   <!-- <link rel="stylesheet" href="assets/css/font-awesome.css"> -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
-</head>
+?>
 
 <body>
 
 <div class="wrapper">
    <section class="form signup">
       <header>Realtime chat app</header>
-      <form action="#">
+      <form action="#" enctype="multipart/form-data">
          <div class="error-txt">This is an error messages!</div>
          <div class="name-details">
             <div class="field input">
                <label for="firstName">First Name</label>
-               <input type="text" id="firstName" placeholder="Enter First Name">
+               <input type="text" name="firstName" id="firstName" placeholder="Enter First Name" required>
             </div>
             <div class="field input">
                <label for="lastName">Last Name</label>
-               <input type="text" id="lastName" placeholder="Enter Last Name">
+               <input type="text" name="lastName" id="lastName" placeholder="Enter Last Name" required>
             </div>
          </div>
          <div class="field input">
             <label for="emailAddress">Email Address</label>
-            <input type="text" id="emailAddress" placeholder="Enter Email Address">
+            <input type="text" name="email" id="emailAddress" placeholder="Enter Email Address" required>
          </div>
          <div class="field input">
             <label for="password">Password</label>
-            <input type="text" id="password" placeholder="Enter Password">
-            <i class="fa fa-eye"></i>
+            <input type="password" name="password" id="password" placeholder="Enter Password" required>
+            <i class="fas fa-eye"></i>
          </div>
          <div class="field image">
             <label for="image">Select Image</label>
-            <input type="file" id="image">
+            <input type="file" name="image" id="image" required>
          </div>
          <div class="field button">
             <input type="submit" value="submit">
@@ -48,6 +44,10 @@
       <div class="link">Already signed up? <a href="login.php">Login now</a></div>
    </section>
 </div>
+
+<!-- Script -->
+<script src="assets/js/pass-show-hide.js"></script>
+<script src="assets/js/signup.js"></script>
 
 </body>
 
