@@ -28,41 +28,41 @@ if(isset($_POST)) {
 		if($conn->query($sql) === TRUE) {
 
 			// Send Email
-			// $to = $email;
-			// $subject = "Job Portal - Confirm Your Email Address";
-			// $message = '
+			$to = $email;
+			$subject = "Job Portal - Confirm Your Email Address";
+			$message = '
 
-			// <html>
-			// <head>
-			// 	<title>Confirm Your Email</title>
-			// <body>
+			<html>
+			<head>
+				<title>Confirm Your Email</title>
+			<body>
 
-			// 	<p>Click Link To Confirm</p>
-			// 	<a href="www.jobportal-alfik.xyz/verify.php?token='.$hash.'&email='.$email.' ">Verify Email</a>
+				<p>Click Link To Confirm</p>
+				<a href="www.jobportal-alfik.xyz/verify.php?token='.$hash.'&email='.$email.' ">Verify Email</a>
 			
-			// </body>
-			// </html>
+			</body>
+			</html>
 
-			// ';
+			';
 
-			// $headers[] = 'MIME-VERSION: 1.0';
-			// $headers[] = 'Content-type: text/html; charset=iso-8859-1';
-			// $headers[] = 'To: '.$to;
-			// $headers[] = 'From: mail@jobportal-alfik.xyz';
+			$headers[] = 'MIME-VERSION: 1.0';
+			$headers[] = 'Content-type: text/html; charset=iso-8859-1';
+			$headers[] = 'To: '.$to;
+			$headers[] = 'From: mail@jobportal-alfik.xyz';
 
-			// $result = mail($to, $subject, $message, implode("\r\n", $headers));
+			$result = mail($to, $subject, $message, implode("\r\n", $headers));
 
-			// if( $result === TRUE ) {
+			if( $result === TRUE ) {
 
-			// 	$_SESSION['registerCompleted'] = true;
-			// 	header("Location: login.php");
-			// 	exit();
+				$_SESSION['registerCompleted'] = true;
+				header("Location: login.php");
+				exit();
 
-			// }
+			}
 
-			// $_SESSION['registerCompleted'] = $hash = urlencode($hash);
-			// header("Location: login.php");
-			// exit();
+			$_SESSION['registerCompleted'] = $hash = urlencode($hash);
+			header("Location: login.php");
+			exit();
 		} else {
 			echo "Error" . $sql . "<br>" . $conn->error;
 
@@ -79,4 +79,3 @@ if(isset($_POST)) {
 	header("Location: register.php");
 	exit();
 }
-
