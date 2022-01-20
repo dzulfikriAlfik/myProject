@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap");
 
 * {
    padding: 0;
@@ -8,7 +8,7 @@
 
 html {
    font-size: 10px;
-   font-family: 'Montserrat', sans-serif;
+   font-family: "Montserrat", sans-serif;
    scroll-behavior: smooth;
 }
 
@@ -36,7 +36,7 @@ p {
    margin-top: 5px;
    line-height: 2.5rem;
    font-weight: 300;
-   letter-spacing: .05rem;
+   letter-spacing: 0.05rem;
 }
 
 .section-title {
@@ -45,7 +45,7 @@ p {
    color: black;
    margin-bottom: 10px;
    text-transform: uppercase;
-   letter-spacing: .2rem;
+   letter-spacing: 0.2rem;
    text-align: center;
 }
 
@@ -61,9 +61,9 @@ p {
    border: 2px solid crimson;
    font-size: 2rem;
    text-transform: uppercase;
-   letter-spacing: .1rem;
+   letter-spacing: 0.1rem;
    margin-top: 36px;
-   transition: .3s ease;
+   transition: 0.3s ease;
    transition-property: background-color, color;
 }
 
@@ -96,7 +96,7 @@ p {
 #header .header {
    min-height: 8vh;
    background-color: rgba(31, 30, 30, 0.24);
-   transition: .3s ease background-color;
+   transition: 0.3s ease background-color;
 }
 
 #header .nav-bar {
@@ -123,7 +123,7 @@ p {
    align-items: center;
    z-index: 1;
    overflow-x: hidden;
-   transition: .5s ease left;
+   transition: 0.5s ease left;
 }
 
 #header .nav-list ul.active {
@@ -133,7 +133,7 @@ p {
 #header .nav-list ul a {
    font-size: 2.5rem;
    font-weight: 500;
-   letter-spacing: .2rem;
+   letter-spacing: 0.2rem;
    text-decoration: none;
    color: white;
    text-transform: uppercase;
@@ -151,7 +151,7 @@ p {
    font-size: 10rem;
    letter-spacing: 50px;
    z-index: -1;
-   transition: .3s ease letter-spacing;
+   transition: 0.3s ease letter-spacing;
 }
 
 #header .nav-list ul li:hover a {
@@ -175,13 +175,13 @@ p {
    justify-content: center;
    z-index: 100;
    cursor: pointer;
-   transform: scale(.8);
+   transform: scale(0.8);
    margin-right: 15px;
 }
 
 #header .hamburger::after {
    position: absolute;
-   content: '';
+   content: "";
    height: 100%;
    width: 100%;
    border-radius: 50%;
@@ -199,13 +199,13 @@ p {
 
 #header .hamburger .bar::after,
 #header .hamburger .bar::before {
-   content: '';
+   content: "";
    position: absolute;
    height: 100%;
    width: 100%;
    left: 0;
    background-color: white;
-   transition: .3s ease;
+   transition: 0.3s ease;
    transition-property: top, bottom;
 }
 
@@ -238,14 +238,14 @@ p {
 }
 
 #hero::after {
-   content: '';
+   content: "";
    position: absolute;
    left: 0;
    top: 0;
    height: 100%;
    width: 100%;
    background-color: black;
-   opacity: .7;
+   opacity: 0.7;
    z-index: -1;
 }
 
@@ -262,7 +262,7 @@ p {
    font-size: 4rem;
    position: relative;
    color: transparent;
-   animation: text_reveal .5s ease forwards;
+   animation: text_reveal 0.5s ease forwards;
    animation-delay: 1s;
 }
 
@@ -275,7 +275,7 @@ p {
 }
 
 #hero h1:nth-child(3) {
-   animation: text_reveal_name .5s ease forwards;
+   animation: text_reveal_name 0.5s ease forwards;
    animation-delay: 3s;
 }
 
@@ -287,12 +287,12 @@ p {
    width: 0;
    background-color: crimson;
    animation: text_reveal_box 1s ease;
-   animation-delay: .5s;
+   animation-delay: 0.5s;
    /* border-radius: 5%; */
 }
 
 #hero h1:nth-child(1) span {
-   animation-delay: .5s;
+   animation-delay: 0.5s;
 }
 
 #hero h1:nth-child(2) span {
@@ -347,14 +347,14 @@ p {
 }
 
 #services .service-item::after {
-   content: '';
+   content: "";
    position: absolute;
    left: 0;
    top: 0;
    height: 100%;
    width: 100%;
    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-   opacity: .95;
+   opacity: 0.95;
    z-index: -1;
 }
 
@@ -453,18 +453,18 @@ p {
 }
 
 #projects .project-img::after {
-   content: '';
+   content: "";
    position: absolute;
    left: 0;
    top: 0;
    height: 100%;
    width: 100%;
    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-   opacity: .8;
+   opacity: 0.8;
 }
 
 #projects .project-img img {
-   transition: .5s ease transform;
+   transition: 0.5s ease transform;
 }
 
 #projects .project-item:hover .project-img img {
@@ -495,7 +495,7 @@ p {
 #about .col-right h2 {
    font-size: 1.85rem;
    font-weight: 500;
-   letter-spacing: .2rem;
+   letter-spacing: 0.2rem;
    margin-bottom: 10px;
 }
 
@@ -523,7 +523,7 @@ p {
 }
 
 #about .col-left .about-img::after {
-   content: '';
+   content: "";
    position: absolute;
    right: -28px;
    top: -30px;
@@ -560,7 +560,7 @@ p {
    align-items: center;
    flex-direction: column;
    box-shadow: 0px 0px 18px 0px #0000002c;
-   transition: .3s ease box-shadow;
+   transition: 0.3s ease box-shadow;
 }
 
 #contact .contact-item:hover {
@@ -604,7 +604,7 @@ p {
    color: white;
    font-weight: 500;
    font-size: 1.8rem;
-   letter-spacing: .1rem;
+   letter-spacing: 0.1rem;
    margin-top: 10px;
    margin-bottom: 10px;
 }
@@ -622,7 +622,7 @@ p {
 
 #footer .social-item img {
    filter: grayscale(1);
-   transition: .5s ease filter;
+   transition: 0.5s ease filter;
 }
 
 #footer .social-item:hover img {
@@ -679,7 +679,7 @@ p {
 
 /* Media query for tablet */
 
-@media only screen and (min-width:768px) {
+@media only screen and (min-width: 768px) {
    .cta {
       font-size: 2.5rem;
       padding: 20px 60px;
@@ -800,8 +800,7 @@ p {
 
 /* Media for Desktop */
 
-@media only screen and (min-width:1200px) {
-
+@media only screen and (min-width: 1200px) {
    /* header */
    #header .hamburger {
       display: none;
